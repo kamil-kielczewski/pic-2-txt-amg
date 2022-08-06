@@ -1,6 +1,8 @@
 # amg
 Image to ASCII library
 
+Youtube presentation https://www.youtube.com/watch?v=lYButrjldJY
+
 ![](Capture.PNG)
 
 Converts image to ASCII by trying the perfectly shaped character
