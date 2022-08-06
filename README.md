@@ -1,4 +1,6 @@
-# amg
+# PORT to WEB
+
+# amg - convert images to txt
 Image to ASCII library
 
 Youtube presentation https://www.youtube.com/watch?v=lYButrjldJY
