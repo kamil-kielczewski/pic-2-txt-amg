@@ -4,6 +4,7 @@
 Image to ASCII library
 
 Youtube presentation https://www.youtube.com/watch?v=lYButrjldJY
+Other helpful YT video wchich boost coding in js txt pic - https://www.youtube.com/watch?v=55iwMYv8tGI
 
 ![](Capture.PNG)
 
