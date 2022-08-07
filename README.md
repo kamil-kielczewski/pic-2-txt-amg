@@ -1,4 +1,4 @@
-# PORT to WEB
+# PORT to WEB - this is temporary repo (it will be deleted)
 
 # amg - convert images to txt
 Image to ASCII library
